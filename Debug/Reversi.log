@@ -1,0 +1,10 @@
+﻿  rever.c
+C:\Users\Alon\Documents\YudGimel\C\Alma\reversi\Reversi\rever.c(16,20): warning C4013: 'DoesHaveATurn' undefined; assuming extern returning int
+C:\Users\Alon\Documents\YudGimel\C\Alma\reversi\Reversi\rever.c(19,20): warning C4013: 'BoardIsFull' undefined; assuming extern returning int
+C:\Users\Alon\Documents\YudGimel\C\Alma\reversi\Reversi\rever.c(39,33): warning C4013: 'SearchForWinner' undefined; assuming extern returning int
+C:\Users\Alon\Documents\YudGimel\C\Alma\reversi\Reversi\rever.c(148,32): warning C4013: 'SetPossibleMoves' undefined; assuming extern returning int
+C:\Users\Alon\Documents\YudGimel\C\Alma\reversi\Reversi\rever.c(226,34): warning C4013: 'CheckIfCanDoAnyBridge2' undefined; assuming extern returning int
+C:\Users\Alon\Documents\YudGimel\C\Alma\reversi\Reversi\rever.c(247,30): warning C4013: 'CheckBridgeInDirection2' undefined; assuming extern returning int
+C:\Users\Alon\Documents\YudGimel\C\Alma\reversi\Reversi\rever.c(307,8): warning C4013: 'system' undefined; assuming extern returning int
+C:\Users\Alon\Documents\YudGimel\C\Alma\reversi\Reversi\rever.c(57): warning C4716: 'MainGame': must return a value
+  Reversi.vcxproj -> C:\Users\Alon\Documents\YudGimel\C\Alma\reversi\Reversi\Debug\Reversi.exe

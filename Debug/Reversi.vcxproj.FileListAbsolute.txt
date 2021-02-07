@@ -1,0 +1,2 @@
+C:\Users\Alon\Documents\YudGimel\C\Alma\reversi\Reversi\Debug\Reversi.exe
+C:\Users\Alon\Documents\YudGimel\C\Alma\reversi\Reversi\Debug\Reversi.pdb
